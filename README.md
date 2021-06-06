@@ -3,5 +3,5 @@ This repository contains the datasets used by the Image Biomarker Standardisatio
 
 Additional information is provided for each dataset.
 
-Maybe we can do some radiomcis or reconstruction research using these phantom data.
+Maybe we can do some radiomcis or reconstruction researches using these phantom data.
 Please list the related references when use the data.
